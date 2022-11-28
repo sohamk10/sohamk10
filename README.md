@@ -2,10 +2,10 @@
 - 👀 I’m interested in Artificial Intelligence specifically perception, action and planning, learning, and artificial neural networks.
 - 🌱 I’m currently persuing Master's in Mechatronics.
 - 🚗 The projects that I have worked on are:
--     Fault Injection in Autonomous Vehicles.
--     Deep Fake detection.
--     Image reconstruction and Anomaly detection
--     Image Denoising.
+- Fault Injection in Autonomous Vehicles.  
+- Deep Fake detection.  
+- Image reconstruction and Anomaly detection.  
+- Image Denoising.  
 - 📫 How to reach me - sohamkalghatgideu@gmail.com
 
 <!---
