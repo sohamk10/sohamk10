@@ -3,7 +3,7 @@
 - 🌱 I’m currently persuing Master's in Mechatronics.
 - 🚗 The projects that I have worked on are:
 -     Fault Injection in Autonomous Vehicles.
--     [Deep Fake detection](https://github.com/sohamk10/Deep-Fake-Detection)
+-     Deep Fake detection.
 -     Image reconstruction and Anomaly detection
 -     Image Denoising.
 - 📫 How to reach me - sohamkalghatgideu@gmail.com
