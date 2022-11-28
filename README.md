@@ -6,7 +6,7 @@
 - Fault Injection in Autonomous Vehicles.  
 - Deep Fake detection.  
 - Image reconstruction and Anomaly detection.  
-- Image Denoising.  
+- Image Denoising.    
 -     Automotive
 - SAEINDIA Supra.  
 - SAEINDIA Baja.  
