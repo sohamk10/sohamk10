@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soham Kalghatgi
-- 👀 I’m interested in Artificial Intelligence specifically perception, action and planning, learning, and artificial neural networks.
+- 👀 I’m interested in Artificial Intelligence specifically in the domain of perception, action and planning, learning, and artificial neural networks.
 - 🌱 I’m currently persuing Master's in Mechatronics.
 - 🚗 The projects that I have worked on are:
 -     Artificial intelligence
