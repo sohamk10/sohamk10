@@ -6,7 +6,7 @@
 
 # Repository Highlights
 
-- The projects that I have worked on are:
+The projects that I have worked on are:
 
 ### Artificial intelligence
 - Fault Injection in Autonomous Vehicles.  
