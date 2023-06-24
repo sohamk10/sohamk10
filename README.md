@@ -20,8 +20,6 @@
 - SAEINDIA Baja.  
 
 
-&nbsp;
-
 
 
 ## Contact Me
@@ -29,7 +27,7 @@
 You can reach me via the following channels:
 
 - Email: sohamkalghatgideu@gmail.com
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/) LinkedIn: www.linkedin.com/in/sohamk
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/) www.linkedin.com/in/sohamk
 
 
 <!---
