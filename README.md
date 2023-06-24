@@ -8,13 +8,13 @@
 
 - The projects that I have worked on are:
 
-## Artificial intelligence
+### Artificial intelligence
 - Fault Injection in Autonomous Vehicles.  
 - Deep Fake detection.  
 - Image reconstruction and Anomaly detection.  
 - Image Denoising.    
 
-## Automotive
+### Automotive
 - Specially Abled Utility Vehicle (SAUV).  
 - SAEINDIA Supra.  
 - SAEINDIA Baja.  
