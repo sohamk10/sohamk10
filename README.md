@@ -8,7 +8,7 @@
 
 - Libraries: numpy, pandas, scikit-learn, matplotlib, seaborn, plotly, keras, tensorflow, torch, PIL, opencv-python, ipywidgets, boto3, kubernetes
 
-- <td>Amazon Simple Storage Service<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon_s3.svg" width="100" title="Amazon Simple Storage Service"><br>533 bytes</td>
+- <td>Amazon Simple Storage Service<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon_s3.svg" width="100" title="Amazon Simple Storage Service"><br></td>
 
 # Repository Highlights
 
