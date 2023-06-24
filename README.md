@@ -4,6 +4,12 @@
 - I am a Mechanical Engineer persuing a Master's in Mechatronics.
 - I am a passionate individual with a strong interest in the field of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning, and Cloud Computing. I am constantly exploring new technologies and techniques to expand my knowledge and skills in these areas.
 
+- Skills: Python, C, C++, MATLAB, Simulink, Linux, Kubernetes, Docker, Continuous Integration (CI), AWS S3.
+
+- Libraries: numpy, pandas, scikit-learn, matplotlib, seaborn, plotly, keras, tensorflow, torch, PIL, opencv-python, ipywidgets, boto3, kubernetes
+
+- <td>Amazon Simple Storage Service<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon_s3.svg" width="100" title="Amazon Simple Storage Service"><br>533 bytes</td>
+
 # Repository Highlights
 
 The projects that I have worked on are:
