@@ -19,9 +19,9 @@
 - SAEINDIA Supra.  
 - SAEINDIA Baja.  
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+
 
 
 ## Contact Me
@@ -29,7 +29,7 @@
 You can reach me via the following channels:
 
 - Email: sohamkalghatgideu@gmail.com
-- LinkedIn: www.linkedin.com/in/sohamk
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/) LinkedIn: www.linkedin.com/in/sohamk
 
 
 <!---
