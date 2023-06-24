@@ -1,20 +1,20 @@
-## Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 - 👋 Hi, I’m Soham Kalghatgi
 - I am a Mechanical Engineer persuing a Master's in Mechatronics.
 - I am a passionate individual with a strong interest in the field of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning, and Cloud Computing. I am constantly exploring new technologies and techniques to expand my knowledge and skills in these areas.
 
-## Repository Highlights
+# Repository Highlights
 
 - The projects that I have worked on are:
 
-# Artificial intelligence
+## Artificial intelligence
 - Fault Injection in Autonomous Vehicles.  
 - Deep Fake detection.  
 - Image reconstruction and Anomaly detection.  
 - Image Denoising.    
 
-# Automotive
+## Automotive
 - Specially Abled Utility Vehicle (SAUV).  
 - SAEINDIA Supra.  
 - SAEINDIA Baja.  
