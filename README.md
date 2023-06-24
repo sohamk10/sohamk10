@@ -8,7 +8,18 @@
 
 - Libraries: numpy, pandas, scikit-learn, matplotlib, seaborn, plotly, keras, tensorflow, torch, PIL, opencv-python, ipywidgets, boto3, kubernetes
 
-- <td>Amazon Simple Storage Service<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon_s3.svg" width="100" title="Amazon Simple Storage Service"><br></td>
+
+<table>
+<tr>
+<td>Amazon Simple Storage Service<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon_s3.svg" width="100" title="Amazon Simple Storage Service"><br></td>
+<td>Docker<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="100" title="Docker"><br>422 bytes</td>
+<td>Git<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="100" title="Git"><br>373 bytes</td>
+<td>GitLab<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitlab.svg" width="100" title="GitLab"><br>417 bytes</td>
+<td>Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="100" title="Linux"><br>956 bytes</td>
+<td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"><br>550 bytes</td>
+<td>Python<br><img src="https://github.com/sohamk10/sohamk10/assets/117833435/d776d5e8-be6d-4c30-948d-430788428cf6" width="100" title="Python"><br>550 bytes</td>
+![image](https://github.com/sohamk10/sohamk10/assets/117833435/d776d5e8-be6d-4c30-948d-430788428cf6)
+</tr>
 
 # Repository Highlights
 
